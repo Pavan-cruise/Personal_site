@@ -42,7 +42,7 @@ h3{font-family: 'Lucida Sans';
 a:hover{color: purple;}
 a{padding:5%; text-decoration: none; color:rgb(2, 45, 62); font-weight: bold;}
 
-#footer{background-color: #dfdddf;padding: 20px 0 20px;margin-top: margin:50px 0px 0 0;;}
+#footer{background-color: #dfdddf;padding: 20px 0 0 0; margin:50px 0 0 0;;}
 
 hr{border-style: none;border-top-style: dotted; border-color:rgb(66, 127, 107); 
     border-width: 10px; width: 10%;}
